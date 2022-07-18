@@ -58,6 +58,3 @@ You can handle this... right? The planet Earth needs to know what we have found!
 
 - - -
 
-### Copyright
-
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
